@@ -25,7 +25,7 @@ Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">react
     -   About
     -   Projects
     -   Portfolio
-    -   Contact
+    -   CV
 -   📱 Fully Responsive
 -   🛠 Easy configurations
 
