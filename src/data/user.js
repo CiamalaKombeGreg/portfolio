@@ -3,82 +3,68 @@ const INFO = {
 		title: "Reactfolio by truethari",
 		name: "Ciamala -K. G.",
 		email: "g.ciamalakombe@students.ephec.be",
-		logo: "../logo.png",
+		logo: "../newLogo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
 		github: "https://github.com/CiamalaKombeGreg",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		discord: "dct.exe",
+		discord: "https://discordapp.com/users/dct.exe",
 		facebook: "https://www.facebook.com/profile.php?id=100015883231315",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Bachelor in IT, anime fan and E-sport player.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm a student (currently) in the final year of a bachelor's degree in computer science at Ephec. During my studies, I have acquired skills in networks administration, programming, security and telecommunications, although I prefer application development, artificial intelligence and game design. I really enjoy learning new skills, keeping up to date and discovering new technologies. I'm always there to improve, through success and failure."
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Ciamala -K G. I'm living in Belgium, and look forward in the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Hello, my name is Ciamala Kombe Greg, I'm a 22 years old bachelor students who's live in Belgium. I have a lot of hobbies and passions from video games to AI or even web development. In the future, I'd like to learn more about AI and game design, I know, the later doesn't have that much in commons with my bachelor, but hey, not every goals are the same. I thrive to deepen my understanding and knowledge in a lot of domains, it can goes from learning a new programming language to political or spacial subjects.",
+		skills:
+			"I'm performing in pure web development subjects, mainly in Java, C++, JavaScript and Python. next to this, I'm also quite skilled in network administration but it isn't a work I'm that found of even though I like some aspects of it.",
+		project:
+			"I still don't know what I'd like to do in the future, not because I lack ideas, but I'm simply not sure of the process to get there. I'm planning to maybe do a Master degree, but again, it comes from my ambition to learn more about AI and game design, probably making one of those two my work. However, I'm still open to go through steps one by one, there is a lot of fields I'd like to test out and even do projects.",
+		goodAt:
+			"I'm someone who can focus and get the job done when the subject is something I like, I'm also very well organised when given time. I can work in a team as long as there is a calm and friendly atmosphere around us.",
+		badAt:
+			"But I also know my weakness, I can easily get distracted when something catch my interest, I tend to overdo things that can be done in easier way and I'm also not the most social person, not out of being a 'shut off', but out of being quite reserved to close friends and family."
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Portfolio",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Here is my collection of extracurricural activities I've done during those 3 years at Ephec.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Cat a Cat",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"We sterilize stray cats, care for them and socialize those for whom a life in a home is conceivable before finding them a family for life 😻",
+			logo: "nextLogo.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://www.catacat.be/",
 		},
 
 		{
-			title: "Project 2",
+			title: "ParkSmart",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"The aim of this project is to develop an intelligent management platform for urban parking lots. The system will enable users to find and reserve parking spaces in real time via a web or mobile application. The aim is to optimize parking lot occupancy, while offering additional services such as paperless payment and information on electric vehicles (charging stations).",
+			logo: "Vite Logo.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/He202120/Projet-Integration-Grp-2",
 		},
 
 		{
-			title: "Project 3",
+			title: "End-of-study work",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"This project has for objectif to create a mobile app for managing holiday's requests.",
+			logo: "Expo Logo Icon.webp",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+			link: "https://github.com/CiamalaKombeGreg/TFE",
+		}
 	],
 };
 
