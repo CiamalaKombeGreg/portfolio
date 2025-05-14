@@ -76,7 +76,7 @@ const Portfolio = () => {
 									<td>Colryut | Student job</td>
 									<td>Social</td>
 									<td>10</td>
-									<td>+ 300</td>
+									<td>372</td>
 								</tr>
 								<tr>
 									<td>LaTex lab</td>
@@ -95,6 +95,12 @@ const Portfolio = () => {
 									<td>Software operation & cloud</td>
 									<td>2</td>
 									<td>3</td>
+								</tr>
+								<tr className="total">
+									<td>Total</td>
+									<td></td>
+									<td>38</td>
+									<td>428</td>
 								</tr>
 							</tbody>
 						</table>
