@@ -43,7 +43,7 @@ function article_1() {
 				<div className="article-content">
 					<DisplayCard hour="10" date="October 25, 2024 - October 27, 2024" expert="L. VAN DORMAEL" website="https://www.ephec.be/actualites/hackathon-2024-faire-du-neuf-avec-de-lancien" />
 					<div className="paragraph">
-						<p>I had the chance to participate to my frist Hackathon that year, it was a pretty great experience. I learned a bit on electronic and also improved my coordination with people.</p>
+						<p>I had the chance to participate to my first Hackathon that year, it was a pretty great experience. I learned a bit on electronic and also improved my coordination with people.</p>
 						<p>However, the most important point was how people from my group weren't from the same bachelor or degree, it make things more real as we all worked on things we were the best at.</p>
 						<p>For example, I mainly focused on programming our record player meaning I had my pc like in the photo. I had to use my knowledge in Python and documentation to do my part of the job, the result ? Something I can be proud of.</p>
 						<p>It clearly make me realise how complex a work can be when it involve several features.</p>
@@ -161,14 +161,14 @@ function article_3() {
 		body: (
 			<React.Fragment>
 				<div className="article-content">
-					<DisplayCard hour="10" date="February, 2023 - December, 2024" expert="Greg (I forgot the last name, yes he had the same first name as me, now he work at Braine-Le-Comte Colryut)" website="https://www.colruyt.be/fr/recherche-de-magasin/colruyt-braine-le-chateau" />
+					<DisplayCard hour="10" date="February, 2023 - December, 2024" expert="Mieke Beyen" website="https://www.colruyt.be/fr/recherche-de-magasin/colruyt-braine-le-chateau" />
 					<div className="paragraph">
-						<p>At the beginning of 2023, I finally had my first experience as a worker. It was a pretty physical work, coordinating with others, deadlines, helping people, remembering frutis and vegetables numbers, etc.</p>
+						<p>At the beginning of 2023, I finally had my first experience as a worker. It was a pretty physical work, coordinating with others, deadlines, helping people, remembering fruits and vegetables numbers, etc.</p>
 						<p>By the end of it, I got used to the work, even when the schedule was... pretty damn hard, sometimes I had to get up at 4.AM to start at 6.AM, then work until 13.AM, the only surprising thing is the fact I've been able to stay awake after that.</p>
 						<p>Colryut helped me develop a better sense of partnership and teamwork, but also consistency, clearly an experience I won't forget as it was my very first professional job.</p>
 					</div>
 					<img
-						src="../hackathon2024.jpg"
+						src="../Colryut proof.jpg"
 						alt="hackathon"
 						className="displayImage"
 						height="500px"
